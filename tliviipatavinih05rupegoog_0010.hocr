@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih05rupegoog/tliviipatavinih05rupegoog_0010.png"; bbox 0 0 3184 4942; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 485 324 982 748">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 485 324 982 748">
+     <span class='ocr_line' id='line_1_1' title="bbox 485 324 982 406; baseline 0.006 -19"><span class='ocrx_word' id='word_1_1' title='bbox 485 324 791 400; x_wconf 52' lang='grc' dir='ltr'><strong>Ηιῐναπυϋοῦοε</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 861 339 982 406; x_wconf 62' lang='lat' dir='ltr'><strong>“torm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 588 416 863 490; baseline 0.004 -12"><span class='ocrx_word' id='word_1_3' title='bbox 588 416 683 480; x_wconf 71' lang='lat' dir='ltr'><strong>June</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 703 417 757 490; x_wconf 70' lang='lat'><strong>1⁶.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 777 420 863 484; x_wconf 78' lang='lat'><strong>1017</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 503 501 946 575; baseline 0.016 -12"><span class='ocrx_word' id='word_1_6' title='bbox 503 501 614 569; x_wconf 68' lang='lat' dir='ltr'>From</span> <span class='ocrx_word' id='word_1_7' title='bbox 639 511 697 564; x_wconf 72' lang='lat' dir='ltr'><strong>the</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 727 508 882 575; x_wconf 69' lang='lat' dir='ltr'><strong>Lioraw</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 903 513 946 570; x_wconf 73' lang='lat' dir='ltr'><strong>of</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 521 591 926 666; baseline 0.015 -15"><span class='ocrx_word' id='word_1_10' title='bbox 521 591 699 654; x_wconf 58' lang='lat' dir='ltr'><strong>&amp;meo-1.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 721 597 926 666; x_wconf 61' lang='lat' dir='ltr'><strong>fliuoeumn</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 633 683 844 748; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 633 683 725 748; x_wconf 71' lang='lat' dir='ltr'><strong>No!</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 741 685 844 748; x_wconf 69' lang='lat' dir='ltr'><strong>York</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1596 4942">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1596 4942">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1596 4942; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1596 4942; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
